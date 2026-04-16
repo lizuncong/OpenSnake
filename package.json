@@ -1,5 +1,5 @@
 {
-  "name": "openbear",
+  "name": "opensnake",
   "version": "1.0.0",
   "description": "学习AI Agent开发，纯古法编程，主打原汁原味体验agent开发的乐趣",
   "main": "index.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lizuncong/OpenBear.git"
+    "url": "git+https://github.com/lizuncong/OpenSnake.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lizuncong/OpenBear/issues"
+    "url": "https://github.com/lizuncong/OpenSnake/issues"
   },
-  "homepage": "https://github.com/lizuncong/OpenBear#readme",
+  "homepage": "https://github.com/lizuncong/OpenSnake#readme",
   "dependencies": {
     "dotenv": "^17.4.2",
     "openai": "^6.34.0"
