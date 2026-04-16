@@ -1,7 +1,8 @@
 # OpenSnake
 
 
-![image](./images/logo.jpg)
+<img src="./images/logo.jpg" width=100 />
+
 
 学习AI Agent开发，纯古法编程，主打原汁原味体验agent开发的乐趣
 
