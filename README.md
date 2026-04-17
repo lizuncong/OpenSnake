@@ -8,7 +8,12 @@
 
 向我在AI Agent开发路上的引路人[睿博](https://github.com/Dr-Corgi)致敬🫡，灵感来源于[睿博](https://github.com/Dr-Corgi/OpenPaw)的[OpenPaw](https://github.com/Dr-Corgi/OpenPaw)
 
+今年三大事：
 
+- 吃透agent开发，踏平agent开发门槛
+- 规范驱动开发，编码三层约束
+- figma还原
+  
 ## 赞助
 你可以通过以下链接帮我砍一刀token
 
