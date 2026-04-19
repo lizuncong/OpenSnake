@@ -1,13 +1,3 @@
-// Harness: the loop -- 持续将真实的工具执行结果回传给模型
-// The Agent Loop
-// 这个文件展示了最小的实用编码代理模式：
-//     用户消息
-//       -> 模型回复
-//       -> 如果有工具调用：执行工具
-//       -> 将工具执行结果写回消息历史
-//       -> 继续循环
-// 它刻意保持循环的简洁性，同时明确暴露了循环状态，
-// 以便后续章节可以基于相同的结构进行扩展。
 import { saveToJsonFileAsync } from '../utils/file.js'
 import { fileURLToPath } from 'url';
 import { dirname } from 'path';
